@@ -2,5 +2,7 @@
     "name": "Org workflow 3",
     "description": "Org a file with the minimum necessary structure.",
     "iconName": "octicon smiley",
-    "categories": null
+    "categories": [
+        "Ruby"
+    ]
 }
