@@ -1,6 +1,8 @@
 {
-    "name": "Org workflow 4",
+    "name": "Org workflow - JavaScript",
     "description": "Org a file with the minimum necessary structure.",
     "iconName": "octicon smiley",
-    "categories": null
+    "categories": [
+        "JavaScript"
+    ]
 }
