@@ -1,5 +1,8 @@
 {
-    "name": "Org workflow 3",
+    "name": "Org workflow - package.json match",
+    "filePatterns": [
+        "^package.json$"
+    ],
     "description": "Org a file with the minimum necessary structure.",
     "iconName": "octicon smiley",
     "categories": [
